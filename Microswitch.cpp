@@ -1,7 +1,7 @@
 /********************************/
 /* Exploration 1 - MicroSwitches*/
 /*     OSU FEH Spring 2020      */
-/*        Stephen Tranter       */
+/*Stephen Tranter & Shivam Gupta*/
 /*    02/10/23  Version 3.0.1   */
 /********************************/
 
